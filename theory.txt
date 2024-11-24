@@ -1,0 +1,22 @@
+
+
+=============================Grid System=========================
+
+
+Bootstrap Color: 
+
+1. Success (Green stype)
+2.info (blue type)
+3.dark (ash type)
+4. light (white type)
+5. warning (orange type)
+6.danger (red type)
+7. primary (blue type)
+8.Secondary (ash type)
+
+
+
+
+Device Name: 
+
+sm, md, lg xl
